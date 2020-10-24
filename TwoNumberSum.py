@@ -1,3 +1,7 @@
+''' Write a function that takes a non-empty array of distinct integers.
+The target sum has to be obtained by summing two different integers '''
+
+
 def twoNumberSum(array, targetSum):
     myarray = []
     if array:

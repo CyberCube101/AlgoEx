@@ -1,4 +1,3 @@
-import itertools
 
 ''' Write a function that takes a non empty array of distinct integers and an integer
 
@@ -27,4 +26,4 @@ def threeNumberSum(array, targetSum):
 
 array = [12, 3, 1, 2, -6, 5, -8, 6]
 targetSum = 0
-print(threeNumberSum(array=array,targetSum=targetSum))
+print(threeNumberSum(array=array, targetSum=targetSum))
